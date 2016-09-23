@@ -1,0 +1,88 @@
+nav {
+	
+	/*border: 2px solid black;*/
+	padding: 15px;
+	margin: 20px;
+	text-align: center;
+}
+
+nav a {
+	margin: 35px;
+	color: green;
+	/* border: 1px solid black; */
+
+	font-size: 19px;
+}
+
+header h1 {
+	text-align: center;
+	color: grey;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+header h4 {
+	text-align: center;
+}
+
+h4 {
+	font-style: italic;
+
+}
+
+.diverse {
+	text-align: center;
+	font-size: 35px;
+	color: green;
+	/*border: solid 1px black; */
+}
+
+.where {
+	text-align: center;
+	font-size: 50px;
+	color: red;
+	text-transform: uppercase;
+	/* border: solid 1px black; */
+	padding: 20px;
+	display: inline-block;
+	}
+
+.heart {
+	text-align: center;
+	font-size: 50px;
+	color: red;
+	text-transform: uppercase;
+	/* border: solid 1px black; */
+	padding: 20px;
+	display: inline-block;
+}
+
+/*.Intro {
+	line-height: 1.4em;
+	font-size: 24px;
+	font-family: Arial;
+ */
+
+.Intro {
+	border: 1px outset black;
+	padding: 25px;
+	margin: 15px;
+	margin-left: -8px;
+	margin-right: -8px;
+	line-height: 1.3em;
+	font-size: 22px;
+	background-color: lightgrey; 
+} 
+
+.dub {
+	position: 100%;
+	margin-left: -10px;
+	margin-right: -10px;
+}
+
+#attractions-footer {
+	font-size: 14px;
+	text-align: center;
+	margin-left: 375px; 
+}
+

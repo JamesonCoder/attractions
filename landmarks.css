@@ -1,0 +1,243 @@
+* {
+	background-color: lightyellow;
+}
+
+nav {
+	
+	/* border: 2px solid black; */
+	padding: 15px;
+	margin: 20px;
+	text-align: center;
+}
+
+nav a {
+	margin: 35px;
+	color: green;
+	font-size: 19px;
+}
+
+p {
+	font-family: Arial;
+	font-size: 18px;
+}
+
+h4 {
+	font-style: italic;
+}
+
+.pho-image {
+	padding-bottom: 50px;
+}
+
+
+.plaza {
+	display: block;
+	text-align: center;
+}
+
+.second-nav a {
+	margin: 30px;
+	padding: 20px;
+	text-underline-position: none;
+}
+
+.second-nav {
+	padding: 25px;
+	margin: 25px;
+}
+
+
+
+header h1 {
+	text-align: center;
+	color: grey;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+header h4 {
+	text-align: center;
+
+}
+
+h1 {
+	text-align: center;
+}
+
+h3 {
+	margin-left: -50px;
+	font-family: Arial;
+	color: skyblue;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.lake {
+	float: center;
+	display: inline-block;
+	margin-left: 475px;
+	margin-bottom: 90px;
+
+}
+
+
+.historic-one, .historic-two, .historic-three {
+	padding-bottom: 75px;
+}
+
+.ferry-one {
+	padding-bottom: 75px;
+}
+
+.ferry-two {
+	padding-bottom: 75px;
+}
+
+.ferry-three {
+	padding-bottom: 75px;
+}
+
+.buildings {
+	float: left;
+	width: 300px;
+	margin: 50px;
+}
+
+.ferries {
+	float: left;
+	width: 300px;
+	margin: 50px;
+}
+
+.restaurants {
+	float: left;
+	width: 300px;
+	margin: 50px;
+}
+
+p {
+	padding: 30px;
+}
+
+
+.grocery-items {
+	margin: 5px;
+	padding: 10px;
+}
+
+.grocery {
+	float: left;
+	width: 330px;
+	margin: 45px;
+}
+
+.cusine {
+	float: left;
+	width: 330px;
+	margin: 45px;
+}
+
+.boba {
+	float: left;
+	width: 330px;
+	margin: 45px;
+}
+
+.ricenoodles-image {
+	margin-bottom: 50px;
+}
+
+footer {
+	display: inline-block;
+	font-size: 14px;
+	float: center;
+}
+
+#lake-footer {
+	font-size: 14px;
+	text-align: center;
+	margin-left: 375px; 
+}
+
+#chinatown-footer {
+	font-size: 14px;
+	text-align: center;
+	margin-left: 375px; 
+}
+
+
+.fairyland-houses {
+	margin: 100px;
+}
+
+
+img.house {
+	margin-left: 60px;
+	margin-right: 60px;
+}
+
+.map {
+	float: left;
+	margin-bottom: 60px;
+}
+
+p.rides {
+	float: right;
+	width: 600px;
+}
+
+.nba {
+	float: left;
+	width: 330px;
+	margin: 45px;
+
+}
+
+.baseball {
+	float: left;
+	width: 330px;
+	margin: 45px;
+}
+
+.raiders {
+	float: left;
+	width: 330px;
+	margin: 45px;
+}
+
+p.sports {
+	text-align: center;
+	font-size: 18px;
+	font-family: Arial;
+	line-height: 1.6em;
+	margin-top: -25px;
+}
+
+p.echo {
+	margin-top: -40px;
+}
+
+h2.digby {
+	margin-top: -5px;
+}
+
+.performances {
+	float: left;
+	text-align: center;
+	width: 700px;
+	margin-left: 300px;
+	line-height: 1.4em;
+	font-size: 20px;
+	margin-bottom: 40px;
+}
+
+#fairyland-footer {
+	font-size: 14px;
+	text-align: center;
+	margin-left: 375px; 
+}
+
+#oracle-footer {
+	font-size: 14px;
+	text-align: center;
+	margin-left: 375px; 
+}

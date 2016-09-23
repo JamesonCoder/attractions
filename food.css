@@ -1,0 +1,90 @@
+* {
+	background-color: lightblue;
+}
+
+nav {
+	
+	/* border: 2px solid black; */
+	padding: 15px;
+	margin: 20px;
+	text-align: center;
+}
+
+nav a {
+	margin: 35px;
+	color: green;
+	font-size: 19px;
+}
+
+header h1 {
+	text-align: center;
+	color: grey;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+header h4 {
+	text-align: center;
+
+}
+
+h4 {
+	font-style: italic;
+}
+
+p {
+	font-size: 20px;
+	font-family: Arial;
+	line-height: 1.4em;
+}
+
+footer {
+	margin-left: 380px;
+	display: inline-block;
+	font-size: 14px;
+}
+
+.coffee {
+	width: 330px;
+	margin: 45px;
+	float: left;
+}
+
+.farmers {
+	width: 330px;
+	margin: 45px;
+	float: left;
+}
+
+.telegraph {
+	width: 330px;
+	margin: 45px;
+	float: left;
+}
+
+
+.temescal {
+	width: 500px;
+	margin: 45px;
+	float: left;
+	margin-left: 65px;
+}
+
+.tacos {
+	width: 500px;
+	margin: 45px;
+	float: left;
+	margin-left: 60px;
+}
+
+
+.restaurants {
+	width: 500px;
+	margin-right: 360px;
+	float: right;
+	margin-bottom: 85px;
+	margin-top: 40px;
+}
+
+
+
