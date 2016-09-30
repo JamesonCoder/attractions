@@ -18,10 +18,15 @@
 @media (max-width: 1180px) {
   footer {
     display: block;
-    text-align: center;
+    float: center;
   }
 }
 
+@media (max-width: 1180px) {
+  body {
+    display: block;
+  }
+}
 
 nav {
 	
