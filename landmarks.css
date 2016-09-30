@@ -8,8 +8,8 @@
   }
 }
 
-@media (min-width: 1180px) {
-  .second-nav {
+@media (max-width: 1180px) {
+  .second-nav a {
     display: block;
   }
 }
