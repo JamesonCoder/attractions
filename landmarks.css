@@ -2,6 +2,11 @@
 	background-color: lightyellow;
 }
 
+@media (max-width: 1180px) {
+  nav a {
+    display: block;
+  }
+}
 
 
 nav {
