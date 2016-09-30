@@ -4,14 +4,6 @@
 
 
 
-@media (max-width: 800px) {
-  nav a, .second-nav {
-    display: block;
-  }
-}
-
-
-
 nav {
 	
 	/* border: 2px solid black; */
